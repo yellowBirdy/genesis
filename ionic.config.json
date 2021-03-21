@@ -1,0 +1,7 @@
+{
+  "name": "genesis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

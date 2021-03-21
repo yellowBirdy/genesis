@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "nft-hunt-0",
+    "staging": "nft-hunt-0"
+  }
+}
